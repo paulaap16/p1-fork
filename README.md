@@ -1,8 +1,8 @@
 # Práctica 1
 
 ## Programación de Aplicaciones Telemáticas
-### Paula Arroyo
-### GITT 3ºA
+- Paula Arroyo
+- GITT 3ºA
 
 Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
