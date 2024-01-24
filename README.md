@@ -24,5 +24,6 @@ git checkout main
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## Foto
+
+
 ![logo_universidad_5](https://github.com/paulaap16/p1-fork/assets/148755838/5f2445de-f146-439f-831f-036658937236)
