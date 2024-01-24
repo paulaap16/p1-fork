@@ -4,7 +4,7 @@
 - Paula Arroyo
 - GITT 3ºA
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+> Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## ¿Como probar en la nube?
 
