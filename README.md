@@ -1,4 +1,4 @@
-# **Práctica 1
+# **Práctica 1**
 
 ## Programación de Aplicaciones Telemáticas
 - Paula Arroyo
