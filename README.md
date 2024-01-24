@@ -25,4 +25,4 @@ git checkout main
 
 
 ## Foto
-![](./logo_universidad5.png)
+![](C:\Users\Paula\Downloads/logo_universidad5.png)
