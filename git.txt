@@ -1,4 +1,4 @@
-Comandos utilizados + explicación:
+Comandos utilizados:
 
 git clone: Se utiliza para clonar un repositorio Git existente en tu máquina local. Copia todos los archivos y la historia del repositorio remoto en tu directorio de trabajo local.
             Lo he usado para clonar el repositorio: https://github.com/gitt-3-pat/p1 en mi fork.
@@ -37,5 +37,5 @@ git push: Se utiliza para enviar tus commits locales al repositorio remoto. Espe
         Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
         To https://github.com/paulaap16/p1-fork
         059f902..114b2f7  main -> main
-        
+
 git checkout: Puede tener diferentes funciones dependiendo de cómo se utilice, pero comúnmente se usa para cambiar entre ramas o para restaurar archivos a un estado específico.
