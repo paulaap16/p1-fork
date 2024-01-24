@@ -25,4 +25,4 @@ git checkout main
 
 
 ## Foto
-![](./sql_join.jpg)
+![](./logo_universidad5.png)
