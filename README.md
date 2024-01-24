@@ -25,4 +25,4 @@ git checkout main
 
 
 ## Foto
-![](C:\Users\Paula\Downloads/logo_universidad5.png)
+![logo_universidad_5](https://github.com/paulaap16/p1-fork/assets/148755838/5f2445de-f146-439f-831f-036658937236)
