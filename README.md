@@ -4,6 +4,16 @@
 - Paula Arroyo
 - GITT 3ºA
 
+### Objetivo
+En esta práctica nos hemos familiarizado con el uso de github y git, con el objetivo de usarlo en futuras prácticas.
+También hemos instalado software con el que trabajaremos a lo largo del curso.
+
+### Desarrollo
+- Git y Github
+  
+  
+- Entorno
+
 > Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## ¿Como probar en la nube?
@@ -23,7 +33,6 @@ git checkout -b feature/1
 git checkout main
 ```
 
-## ¿Cómo escribir un README.md con formato?
 
 > [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
