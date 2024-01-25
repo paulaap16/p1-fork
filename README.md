@@ -14,11 +14,6 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
   
 - Entorno
 
-> Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
-
-## ¿Como probar en la nube?
-
-> [Github-Codespaces](https://github.com/features/codespaces)
 
 ## Comandos git básicos
 
@@ -33,7 +28,8 @@ git checkout -b feature/1
 git checkout main
 ```
 
-
+> Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+> [Github-Codespaces](https://github.com/features/codespaces)
 > [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
