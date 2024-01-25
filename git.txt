@@ -39,3 +39,4 @@ git push: Se utiliza para enviar tus commits locales al repositorio remoto. Espe
         059f902..114b2f7  main -> main
 
 git checkout: Puede tener diferentes funciones dependiendo de cómo se utilice, pero comúnmente se usa para cambiar entre ramas o para restaurar archivos a un estado específico.
+.
