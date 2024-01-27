@@ -22,6 +22,8 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
   git checkout -b feature/1
   git checkout main
   ```
+  > https://github.com/paulaap16/p1-fork/blob/main/git.txt
+  
 - Entorno
   - Java 17
   - Maven
