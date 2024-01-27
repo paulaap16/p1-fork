@@ -10,23 +10,21 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
 
 ### Desarrollo
 - Git y Github
+  Comandos utilizados:
+  ```
+  git clone https://github.com/gitt-3-pat/p1
+  git status
+  git add .
+  git commit -m "TU MENSAJE"
+  git push
   
-  
+  git checkout -b feature/1
+  git checkout main
+  ```
 - Entorno
-
-
-## Comandos git básicos
-
-```
-git clone https://github.com/gitt-3-pat/p1
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
-
-git checkout -b feature/1
-git checkout main
-```
+  - Java 17
+  - Maven
+  - VsCode + IntelliJ
 
 > Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 > [Github-Codespaces](https://github.com/features/codespaces)
