@@ -34,13 +34,10 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
 
   > https://github.com/paulaap16/p1-fork/blob/main/entorno.pdf
 
-  
+
+
+![logo_universidad_5](https://github.com/paulaap16/p1-fork/assets/148755838/5f2445de-f146-439f-831f-036658937236)
 
 > Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 > [Github-Codespaces](https://github.com/features/codespaces)
 > [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-
-
-![logo_universidad_5](https://github.com/paulaap16/p1-fork/assets/148755838/5f2445de-f146-439f-831f-036658937236)
