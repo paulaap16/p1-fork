@@ -28,9 +28,10 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
   - Java 17
   - Maven
   - VsCode + IntelliJ
-![Captura de pantalla 2024-01-26 225619](https://github.com/paulaap16/p1-fork/assets/148755838/09053b7c-cf8b-41a5-8162-a3e80731e99c)
 
     
+![Captura de pantalla 2024-01-26 225619](https://github.com/paulaap16/p1-fork/assets/148755838/09053b7c-cf8b-41a5-8162-a3e80731e99c)
+
   > https://github.com/paulaap16/p1-fork/blob/main/entorno.pdf
 
   
