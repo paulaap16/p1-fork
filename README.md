@@ -28,7 +28,12 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
   - Java 17
   - Maven
   - VsCode + IntelliJ
+
+    ![Captura de pantalla 2024-01-26 225619](https://github.com/paulaap16/p1-fork/assets/148755838/34c9499a-116c-430d-9ff6-      0a4261c40956)
+    
   > https://github.com/paulaap16/p1-fork/blob/main/entorno.pdf
+
+  
 
 > Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 > [Github-Codespaces](https://github.com/features/codespaces)
