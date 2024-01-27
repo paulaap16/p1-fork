@@ -11,6 +11,7 @@ También hemos instalado software con el que trabajaremos a lo largo del curso.
 ### Desarrollo
 - Git y Github
   Comandos utilizados:
+  
   ```
   git clone https://github.com/gitt-3-pat/p1
   git status
